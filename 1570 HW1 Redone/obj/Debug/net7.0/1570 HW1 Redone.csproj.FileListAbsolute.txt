@@ -1,0 +1,15 @@
+C:\Users\domin\Documents\C#\1570 HW1 Redone\bin\Debug\net7.0\1570 HW1 Redone.exe
+C:\Users\domin\Documents\C#\1570 HW1 Redone\bin\Debug\net7.0\1570 HW1 Redone.deps.json
+C:\Users\domin\Documents\C#\1570 HW1 Redone\bin\Debug\net7.0\1570 HW1 Redone.runtimeconfig.json
+C:\Users\domin\Documents\C#\1570 HW1 Redone\bin\Debug\net7.0\1570 HW1 Redone.dll
+C:\Users\domin\Documents\C#\1570 HW1 Redone\bin\Debug\net7.0\1570 HW1 Redone.pdb
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.csproj.AssemblyReference.cache
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.AssemblyInfoInputs.cache
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.AssemblyInfo.cs
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.dll
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\refint\1570 HW1 Redone.dll
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.pdb
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\1570 HW1 Redone.genruntimeconfig.cache
+C:\Users\domin\Documents\C#\1570 HW1 Redone\obj\Debug\net7.0\ref\1570 HW1 Redone.dll

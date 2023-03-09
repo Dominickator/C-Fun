@@ -1,0 +1,15 @@
+C:\Users\domin\Documents\C#\Sample Code\bin\Debug\net7.0\Sample Code.exe
+C:\Users\domin\Documents\C#\Sample Code\bin\Debug\net7.0\Sample Code.deps.json
+C:\Users\domin\Documents\C#\Sample Code\bin\Debug\net7.0\Sample Code.runtimeconfig.json
+C:\Users\domin\Documents\C#\Sample Code\bin\Debug\net7.0\Sample Code.dll
+C:\Users\domin\Documents\C#\Sample Code\bin\Debug\net7.0\Sample Code.pdb
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.csproj.AssemblyReference.cache
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.AssemblyInfoInputs.cache
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.AssemblyInfo.cs
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.dll
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\refint\Sample Code.dll
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.pdb
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\Sample Code.genruntimeconfig.cache
+C:\Users\domin\Documents\C#\Sample Code\obj\Debug\net7.0\ref\Sample Code.dll

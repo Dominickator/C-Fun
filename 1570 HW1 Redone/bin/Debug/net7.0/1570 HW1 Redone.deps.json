@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1570 HW1 Redone/1.0.0": {
+        "runtime": {
+          "1570 HW1 Redone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1570 HW1 Redone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
